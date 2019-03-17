@@ -1,0 +1,25 @@
+{
+  "name": "google-search-books",
+  "version": "1.0.0",
+  "description": "Google Search Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restimirandaNU/google-search-books.git"
+  },
+  "author": "Resti Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restimirandaNU/google-search-books/issues"
+  },
+  "homepage": "https://github.com/restimirandaNU/google-search-books#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors-express": "^0.2.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
