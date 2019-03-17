@@ -20,3 +20,9 @@ https://rm-google-book-search.herokuapp.com/
 
 <img width="1680" alt="Screen Shot 2019-03-17 at 6 24 00 PM" src="https://user-images.githubusercontent.com/43328718/54499694-a20bc580-48e2-11e9-8a07-4570899d2cb7.png">
 
+## Technology used:
+1. React
+2. Google API
+
+## Author:
+Resti Miranda - NU Coding Bootcamp 2018-2019
